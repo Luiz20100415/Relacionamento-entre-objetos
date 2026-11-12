@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Relacionamento-entre-objetos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39850d8a54ab070c980c4812b5614a158e0e6c1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Relacionamento-entre-objetos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Relacionamento-entre-objetos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
