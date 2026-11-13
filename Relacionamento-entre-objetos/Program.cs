@@ -68,6 +68,52 @@ using RelacionamentoEntreObjetos;
 // Console.WriteLine();
 // contrato.Imprimir();
 
+// Exercicio 7
+// Notebook notebook = new Notebook("Dell Latitude 5440", "1234567", 16);
+// Smartphone smartphone = new Smartphone("Samsung Galaxy S24", "12345678", 256);
+
+// notebook.ExibirInformacoes();
+// smartphone.ExibirInformacoes();
+
+// Exercicio 8
+// List<Animal> animais = new List<Animal>
+// {
+//     new Cachorro("Claudio"),
+//     new Gato("luis Boquinha"),
+//     new Passaro("Corinthians")
+// };
+
+// foreach (Animal animal in animais)
+// {
+// animal.Apresentar();
+// animal.EmitirSom();
+// }
+
+// Exercicio 9
+// IArmazenavel armazenamento;
+        
+// armazenamento = new ArquivoTexto();
+// armazenamento.Salvar("Relatório financeiro de 2026.");
+// armazenamento.Ler();
+           
+// armazenamento = new BancoDados();
+// armazenamento.Salvar("ID: 101 | Cliente: Maria Silva");
+// armazenamento.Ler();
+
+// Exercicio 10
+// IContratavel servicoContratavel;
+
+// servicoContratavel = new Hospedagem("Plano Cloud Pro");
+// servicoContratavel.Contratar();
+
+// servicoContratavel = new Consultoria("Arquitetura de Software");
+// servicoContratavel.Contratar();
+
+// Console.WriteLine();
+
+
+// ICancelavel servicoCancelavel = new Hospedagem("Plano Cloud Pro");
+// servicoCancelavel.Cancelar();
 
 
         
